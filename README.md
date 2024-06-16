@@ -2,7 +2,7 @@
 
 Projects for Sensor Systems course in Politecnico di Milano
 
-Used STM32F4 microcontroler connected to a board with many sensors (LDR, Keyboard, Encoder, Accelerometer, Temperature, IR Photodiode, Microphone) and actuators (Speaker, Led Matrix, LCD, IR Transmitter)
+Used STM32 Nucleo-64 board connected to a development board with many sensors (LDR, Keyboard, Encoder, Accelerometer, Temperature, IR Photodiode, Microphone) and actuators (Speaker, Led Matrix, LCD, IR Transmitter)
 
 Learned about:
 

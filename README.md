@@ -8,12 +8,4 @@ Learned about:
 
 GPIO, PWM, ADC, DMA, Timers, Counters, Interrupts, Watchdogs, USART, SPI, I2C
 
-Working principle and front-end circuits of the most employed sensors:
-
-Light and Imaging (photodiode, CCD and CMOS sensor);
-Temperature (RTD, thermistors, thermocouple, thermal diode, IR thermometer);
-Magnetic field (Hall sensors, magneto-resistances);
-Strain and Forces (strain gauges, piezoelectric sensor);
-Displacement, Distance and Proximity (capacitive, inductive, acoustic, optical, magnetic, touch sensors);
-Acceleration and Orientation (MEMS);
-Audio (dynamic and condenser microphones).
+Working principle and front-end circuits of the most employed sensors

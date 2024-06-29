@@ -8,4 +8,6 @@ Learned about:
 
 GPIO, PWM, ADC, DMA, Timers, Counters, Interrupts, Watchdogs, USART, SPI, I2C
 
+Reading Datasheets and Schematics to interface with sensors and actuators
+
 Working principle and front-end circuits of the most employed sensors

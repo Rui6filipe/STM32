@@ -14,5 +14,7 @@ Working principle and front-end circuits of the most employed sensors
 
 
 
-https://github.com/user-attachments/assets/a2fa57dd-720b-4b49-926f-2b9bd82f2a6b
+
+https://github.com/user-attachments/assets/ac8a2438-4f3f-4889-8aaa-85b936ae41ab
+
 

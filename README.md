@@ -11,3 +11,8 @@ GPIO, PWM, ADC, DMA, Timers, Counters, Interrupts, Watchdogs, USART, SPI, I2C
 Reading Datasheets and Schematics to interface with sensors and actuators
 
 Working principle and front-end circuits of the most employed sensors
+
+
+
+https://github.com/user-attachments/assets/a2fa57dd-720b-4b49-926f-2b9bd82f2a6b
+
